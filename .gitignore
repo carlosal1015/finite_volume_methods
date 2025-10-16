@@ -110,3 +110,7 @@ dmypy.json
 
 *.slides.html
 .ipynb_checkpoints/
+# MyST build outputs
+_build
+_output/
+pyclaw.log
